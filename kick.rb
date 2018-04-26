@@ -15,6 +15,7 @@ def create_project_hash
     }
   end
    puts projects[:image_link]
+   puts projects[:percent_funded]
   # return the projects
   projects
 
